@@ -12,12 +12,13 @@ output: html_document
 1. [Urbanization grade](#Urbanzation grade)  
 2. [Demographics](#Demographics)  
 3. [Housing](#Housing)  
-4. [Income](#Income)  
+4. [](#Income)  
 5. [Unemployment](#Unemployment)  
 6. [Social security](#Social security)  
 7. [Educational level](#Educational level)  
 8. [Immigrants and ethnic minority groups](#Immigrants and ethnic minority groups)  
-9. [Crime](#Crime)  
+9. [Crime](#Crime)
+10. [Area identicators] (#Area identicators)
   
 
 # Urbanization grade
@@ -755,6 +756,312 @@ output: html_document
 **Variable type**: integer     
 **Variable unit**:   
 **Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in 1000 euros in 2005 (dichotomized)  
+**Variable name**: socenv_av_incdich1000_2005  
+**Variable description**: Average income in 1000 euros of residents in residential area in 2005 (dichotomized: below/above country-specific net mean household income (OECD)).    
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in 1000 euros in 2006 (dichotomized) 
+**Variable name**: socenv_av_inc1000dich_2006 
+**Variable description**: Average income in 1000 euros of residents in residential area in 2006 (dichotomized: below/above country-specific net mean household income (OECD)).   
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in 1000 euros in 2011 (dichotomized)   
+**Variable name**: socenv_av_inc1000dich_2011 
+**Variable description**: Average income in 1000 euros of residents in residential area in 2011 (dichotomized: below/above country-specific net mean household income (OECD)).      
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2006 (dichotomized) 
+**Variable name**: socenv_av_incdich_2006  
+**Variable description**: Average income in euros of residents in residential area in 2006 (dichotomized: below/above country-specific net mean household income (OECD)).     
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2007 (dichotomized)  
+**Variable name**: socenv_av_incdich_2007
+**Variable description**: Average income in euros of residents in residential area in 2007 (dichotomized: below/above country-specific net mean household income (OECD)).      
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2011 (dichotomized)  
+**Variable name**: socenv_av_incdich_2011 
+**Variable description**: Average income in euros of residents in residential area in 2011 (dichotomized: below/above country-specific net mean household income (OECD)).      
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2013 (dichotomized)  
+**Variable name**: socenv_av_incdich_2013  
+**Variable description**: Average income in euros of residents in residential area in 2013 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2014 (dichotomized)  
+**Variable name**: socenv_av_incdich_2014  
+**Variable description**: Average income in euros of residents in residential area in 2014 (dichotomized: below/above country-specific net mean household income (OECD)).     
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2015 (dichotomized)  
+**Variable name**: socenv_av_incdich_2015  
+**Variable description**: Average income in euros of residents in residential area in 2015 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average income in euros in 2016 (dichotomized) 
+**Variable name**: socenv_av_incdich_2016  
+**Variable description**: Average income in euros of residents in residential area in 2016 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006
+**Variable name**: socenv_av_hhinc_500m_2006  
+**Variable description**: Average household income in euros in 500 meter street network buffer zone around participants address in 2006 
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006
+**Variable name**: socenv_av_hhinc_1000m_2006  
+**Variable description**: Average household income in euros in 1000 meter street network buffer zone around participants address in 2006 
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006
+**Variable name**: socenv_av_hhinc_2000m_2006  
+**Variable description**: Average household income in euros in 1000 meter street network buffer zone around participants address in 2006 
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006 (dichotomized)
+**Variable name**: socenv_av_hhincdich_500m_2006  
+**Variable description**: Average household income in euros in 500 meter street network buffer zone around participants address in 2006 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006 (dichotomized)
+**Variable name**: socenv_av_hhincdich_1000m_2006  
+**Variable description**: Average household income in euros in 1000 meter street network buffer zone around participants address in 2006 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:   
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Average household income in euros in 2006 (dichotomized)
+**Variable name**: socenv_av_hhincdich_2000m_2006  
+**Variable description**: Average household income in euros in 2000 meter street network buffer zone around participants address in 2006 (dichotomized: below/above country-specific net mean household income (OECD)).       
+**Variable type**: integer     
+**Variable unit**:   
+**Category coding**:  
+
+**Code** | **Category Label**  
+------------- | -------------  
+0 | Less than or equal to country-specific net mean household income
+1 | Greater than country-specific net mean household income   
+
 
 **Harmonization status**:  
 **Harmonization comment**:  
@@ -1630,3 +1937,339 @@ output: html_document
 **R script**:  
 {r, echo=TRUE}
 #This is where the R-script will be written
+
+
+
+#Area identicators
+
+### **Variable label**: Area indicator: city 
+**Variable name**: socenv_city_2004    
+**Variable description**: City indicator in 2004    
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: city 
+**Variable name**: socenv_city_2006    
+**Variable description**: City indicator in 2006    
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: city 
+**Variable name**: socenv_city_2009    
+**Variable description**: City indicator in 2009    
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: city 
+**Variable name**: socenv_city_2011    
+**Variable description**: City indicator in 2011    
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: city 
+**Variable name**: socenv_city_2014    
+**Variable description**: City indicator in 2014   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+
+### **Variable label**: Area indicator: municipality
+**Variable name**: socenv_municipality_2006    
+**Variable description**: Municipality indicator in 2006   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: municipality
+**Variable name**: socenv_municipality_2011    
+**Variable description**: Municipality indicator in 2011   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: municipality
+**Variable name**: socenv_municipality_2016    
+**Variable description**: Municipality indicator in 2016   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: neighbourhood
+**Variable name**: socenv_neighbourhood_2004    
+**Variable description**: Neighbourhood indicator in 2004   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: neighbourhood
+**Variable name**: socenv_neighbourhood_2006    
+**Variable description**: Neighbourhood indicator in 2006  
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: neighbourhood
+**Variable name**: socenv_neighbourhood_2009    
+**Variable description**: Neighbourhood indicator in 2009   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: neighbourhood
+**Variable name**: socenv_neighbourhood_2011    
+**Variable description**: Neighbourhood indicator in 2011   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: neighbourhood
+**Variable name**: socenv_neighbourhood_2014    
+**Variable description**: Neighbourhood indicator in 2014   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+
+### **Variable label**: Area indicator: 4-digit postal code
+**Variable name**: socenv_pc4_2004    
+**Variable description**:  4-digit postal code (PC4) indicator in 2004   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 4-digit postal code
+**Variable name**: socenv_pc4_2006    
+**Variable description**:  4-digit postal code (PC4) indicator in 2006  
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 4-digit postal code
+**Variable name**: socenv_pc4_2011   
+**Variable description**:  4-digit postal code (PC4) indicator in 2011   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 4-digit postal code
+**Variable name**: socenv_pc4_2014    
+**Variable description**:  4-digit postal code (PC4) indicator in 2014   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 6-digit postal code
+**Variable name**: socenv_pc6_2004    
+**Variable description**:  6-digit postal code (PC6) indicator in 2004   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 6-digit postal code
+**Variable name**: socenv_pc6_2006    
+**Variable description**:  6-digit postal code (PC6) indicator in 2006  
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 6-digit postal code
+**Variable name**: socenv_pc6_2011   
+**Variable description**:  6-digit postal code (PC6) indicator in 2011   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 6-digit postal code
+**Variable name**: socenv_pc6_2014    
+**Variable description**:  6-digit postal code (PC6) indicator in 2014   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
+
+### **Variable label**: Area indicator: 5-digit postal code
+**Variable name**: socenv_pc5_2014    
+**Variable description**:  5-digit postal code (PC5) indicator in 2014   
+**Variable type**: integer      
+**Variable unit**:   
+**Category coding**:   
+
+**Harmonization status**:  
+**Harmonization comment**:  
+**R script**:  
+{r, echo=TRUE}
+#This is where the R-script will be written
+
+
